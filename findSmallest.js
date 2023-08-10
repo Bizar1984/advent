@@ -16,4 +16,8 @@ var findSmallest = function (list) {
 exports.findSmallest = findSmallest;
 console.log((0, exports.findSmallest)(my_second_list));
 
+<<<<<<< HEAD
 // Push testing
+=======
+// Hello everybody
+>>>>>>> main
