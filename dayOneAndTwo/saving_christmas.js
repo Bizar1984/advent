@@ -32,7 +32,7 @@ function findSumOfNumbers() {
       }
     }
   }
-  return "Sorry! None of the numbers have a sum of 2020";
+  return "Sorry! None of the numbers have a sum of 2020. Better luck next time....";
 }
 
 function findSumOfThreeNumbers() {
