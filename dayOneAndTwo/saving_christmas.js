@@ -15,7 +15,7 @@ const myInput = [
   1526, 1491, 1876, 1476, 1945, 1702, 1900, 1814, 1289, 1992, 1859, 1967, 1966,
   1283, 2002, 1195, 1066, 1924, 1968, 1835, 1971, 1977, 1430, 1844, 1465, 1595,
   1957, 1472, 219, 1851, 1955, 1999, 2012, 2066, 1966, 1250
-] someting
+]
 
 // Which numbers add up to 2020 and which number you get when multiplying these numbers?
 function findSumOfNumbers() {
