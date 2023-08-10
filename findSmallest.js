@@ -15,6 +15,3 @@ var findSmallest = function (list) {
 };
 exports.findSmallest = findSmallest;
 console.log((0, exports.findSmallest)(my_second_list));
-
-// Push testing
-// Can we cherry-pick this?
